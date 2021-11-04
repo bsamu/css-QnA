@@ -1,0 +1,76 @@
+* {margin:0;padding:0;border:0;background:transparent;outline:none;text-decoration:none;outline:none;font-family:inherit;box-sizing:border-box;}
+ol, ul, li {list-style:none;display:block;}
+table {border-collapse: collapse;border-spacing:0;}
+a img {border: none;}
+
+button,
+a{cursor: pointer; color: inherit;}
+
+textarea{resize: none;}
+
+button,
+input,
+textarea,
+select{appearance: none !important; -webkit-appearance: none !important; border-radius: 0;}
+
+/* end of css reset */
+
+.level {
+    margin: 5vh 5vw;
+}
+
+.level1 {
+    width: 90vw;
+    height: 90vh;
+
+    background-color: black ;
+}
+
+.level2 {
+    width: 80vw;
+    height: 80vh;
+
+    background-color: rgb(175, 18, 18) ;
+}
+
+.level3 {
+    width: 70vw;
+    height: 70vh;
+    
+    background-color: rgb(195, 207, 20) ;
+}
+
+.level4 {
+    width: 60vw;
+    height: 60vh;
+    
+    background-color: rgb(34, 10, 175) ;
+}
+
+.level5 {
+    width: 50vw;
+    height: 50vh;
+    
+    background-color: rgb(131, 15, 125) ;
+}
+
+.level6 {
+    width: 40vw;
+    height: 40vh;
+    
+    background-color: rgb(14, 177, 35) ;
+}
+
+.level7 {
+    width: 30vw;
+    height: 30vh;
+    
+    background-color: rgb(160, 80, 15) ;
+}
+
+.level8 {
+    width: 20vw;
+    height: 20vh;
+    
+    background-color: rgb(15, 127, 179) ;
+}
